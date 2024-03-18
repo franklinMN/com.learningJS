@@ -3,3 +3,5 @@
 ## Enhanced Object Literal
 ## default function Parameter
 ## spread operator
+## rest operator
+## Destructuring
